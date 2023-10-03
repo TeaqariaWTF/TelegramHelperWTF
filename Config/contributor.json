@@ -5,7 +5,18 @@
             "title": "Rushi Ranpise",
             "summary": {
                 "en": "Thank you for improving the \"English\" translation for this module.",
-                "zh": "感谢你为此模块提供英文翻译"
+                "zh": "感谢你为此模块提供英文翻译",
+                "ru": "Спасибо за перевод этого модуля на Английский язык!"
+            },
+            "enable": true
+        },
+        {
+            "id": 2055263770,
+            "title": "[-[SugAR]-] ..ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ:",
+            "summary": {
+                "en": "Thank you for improving the \"Pусский\" translation for this module.",
+                "zh": "感谢你为此模块提供俄语翻译",
+                "ru": "Спасибо за перевод этого модуля на Русский язык!"
             },
             "enable": true
         }
